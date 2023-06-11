@@ -7,7 +7,7 @@ If you like this project and would like to support my work, you can do so throug
 
 * [Patreon](https://www.patreon.com/user?u=23888929)
 <a href='https://ko-fi.com/deadbeef3137' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-* [Buy Me a Coffee](https://www.buymeacoffee.com/your-bmca-link)
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="deadbeef3137" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 Your support is greatly appreciated!
 
