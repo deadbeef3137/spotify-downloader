@@ -5,7 +5,7 @@ Download songs or playlists from Spotify
 
 If you like this project and would like to support my work, you can do so through the following platforms:
 
-patreon: deadbeef3137
+patreon: [deadbeef3137]
 <a href='https://ko-fi.com/deadbeef3137' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <a href="https://www.buymeacoffee.com/deadbeef3137"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=deadbeef3137&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
