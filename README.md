@@ -5,10 +5,9 @@ Download songs or playlists from Spotify
 
 If you like this project and would like to support my work, you can do so through the following platforms:
 
-[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)]([https://www.patreon.com/deadbeef3137](https://www.patreon.com/user?u=23888929))
-<a href='https://www.patreon.com/user?u=23888929' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://c5.patreon.com/external/logo/become_a_patron_button.png' border='0' /></a>
-<a href='https://ko-fi.com/deadbeef3137' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href="https://www.buymeacoffee.com/deadbeef3137"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=deadbeef3137&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href='https://www.patreon.com/user?u=23888929' target='_blank'><img height='50' style='border:0px;height:36px;' src='https://c5.patreon.com/external/logo/become_a_patron_button.png' border='0' /></a>
+<a href='https://ko-fi.com/deadbeef3137' target='_blank'><img height='50' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://www.buymeacoffee.com/deadbeef3137"><img height='50' src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=deadbeef3137&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 Your support is greatly appreciated!
 
