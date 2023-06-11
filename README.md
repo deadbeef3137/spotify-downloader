@@ -8,9 +8,7 @@ If you like this project and would like to support my work, you can do so throug
 * [Patreon](https://www.patreon.com/user?u=23888929)
 <a href='https://ko-fi.com/deadbeef3137' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/7kZE0z52Sd9zSESzDA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/buymeacoffee-creator-buy-me-a-coffee-support-7kZE0z52Sd9zSESzDA">via GIPHY</a></p>
-
-<a href='https://ko-fi.com/deadbeef3137' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://www.buymeacoffee.com/deadbeef3137"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=deadbeef3137&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 Your support is greatly appreciated!
 
