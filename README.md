@@ -7,7 +7,10 @@ If you like this project and would like to support my work, you can do so throug
 
 * [Patreon](https://www.patreon.com/user?u=23888929)
 <a href='https://ko-fi.com/deadbeef3137' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="deadbeef3137" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/7kZE0z52Sd9zSESzDA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/buymeacoffee-creator-buy-me-a-coffee-support-7kZE0z52Sd9zSESzDA">via GIPHY</a></p>
+
+<a href='https://ko-fi.com/deadbeef3137' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 Your support is greatly appreciated!
 
