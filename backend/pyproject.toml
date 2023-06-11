@@ -1,0 +1,106 @@
+[tool.poetry]
+name = "spotdl"
+version = "4.1.11"
+description = "Download your Spotify playlists and songs along with album art and metadata"
+license = "MIT"
+authors = ["spotDL Team <spotdladmins@googlegroups.com>"]
+maintainers = ["xnetcat <xnetcat.dev@gmail.com>"]
+readme = "README.md"
+repository = "https://github.com/deadbeef3137/spotify-downloader.git"
+homepage = "https://github.com/deadbeef3137/spotify-downloader/"
+documentation = "https://spotdl.rtfd.io/en/latest/"
+keywords = ["spotify", "downloader", "spotdl", "music"]
+classifiers = [
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Topic :: Multimedia",
+    "Topic :: Multimedia :: Sound/Audio",
+    "Topic :: Utilities",
+]
+
+[tool.poetry.dependencies]
+python = ">=3.7.2,<3.12"
+
+spotipy = "^2.23.0"
+ytmusicapi = [
+    {version = "^0.22.0", python = "<3.8"},
+    {version = "^0.24.0", python = ">=3.8"},
+]
+pytube = "^12.1.3"
+yt-dlp = "^2023.3.4"
+mutagen = "^1.46.0"
+rich = "^13.3.5"
+beautifulsoup4 = "^4.12.2"
+requests = "^2.29.0"
+rapidfuzz = "==2.15.1"
+python-slugify = {extras = ["unidecode"], version = "^8.0.1"}
+uvicorn = "^0.22.0"
+pydantic = "^1.10.7"
+fastapi = "^0.95.1"
+platformdirs = "^3.5.0"
+pykakasi = "^2.2.1"
+syncedlyrics = "^0.5.0"
+typing-extensions = "^4.5.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.3.1"
+pytest-mock = "^3.10.0"
+pytest-vcr = "^1.0.2"
+pyfakefs = "^5.2.2"
+pytest-cov = "^4.0.0"
+pytest-subprocess = "^1.5.0"
+pytest-asyncio = "^0.21.0"
+mypy = "^1.2.0"
+pylint = "^2.17.3"
+black = "^23.3.0"
+mdformat-gfm = "^0.3.5"
+types-orjson = "^3.6.2"
+types-python-slugify = "^8.0.0.2"
+types-requests = "^2.29.0.0"
+types-setuptools = "^67.7.0.0"
+types-toml = "^0.10.8.6"
+types-ujson = "^5.7.0.4"
+pyinstaller = "^5.10.1"
+mkdocs = "^1.4.2"
+isort = [
+    {version = "^5.11.4", python = "<3.8"},
+    {version = "^5.12.0", python = ">=3.8"},
+]
+dill = "^0.3.6"
+mkdocs-material = "^9.1.8"
+mkdocstrings = "^0.21.2"
+mkdocstrings-python = "^0.9.0"
+pymdown-extensions = "^9.11"
+mkdocs-gen-files = "^0.5.0"
+mkdocs-literate-nav = "^0.6.0"
+mkdocs-section-index = "^0.3.5"
+
+[tool.poetry.scripts]
+spotdl = "spotdl:console_entry_point"
+
+[tool.isort]
+profile = "black"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pylint.format]
+limit-inference-results = 0
+fail-under = 9
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+markers = [
+    "vcr",
+]
+
+[mypy]
+ignore_missing_imports = true
